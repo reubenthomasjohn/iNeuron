@@ -20,7 +20,7 @@ d.	Classic load balancer
 ### Q4: How does AWS IAM make a profit?
 AWS IAM itself is free to use, but it makes it’s profit indirectly when other AWS services are purchased using IAM. EC2, EBS, S3 and RDS bring the most profit for AWS. AWS makes it hard for customers to move to other providers by emphasizing on higher level capabilities that it’s competitors. 
 
-### Q5: Demonstrate the DynamoDB support mechanism.
+### Q5: Demonstrate the DynamoDB support mechanism. - This question was not very clear to me. If possible, please offer some more clarity
 DynamoDB is a serverless NOSQL database service. It is highly scalable, and offers a flexible model using autoscaling of throughput capacity.
 
 DynamoDB supports GET/PUT operations using a user-defined primary key, and applications running on most operating systems (Linux, Windows, iOS, Android, Solaris, AIX and HP-UX) can use DynamoDB. 
