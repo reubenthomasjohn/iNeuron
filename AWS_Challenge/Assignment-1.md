@@ -11,7 +11,7 @@ Instance stores are temporary storage for an instance. The storage is done on a 
 EC2 instances can be launched using both these methods. Using instance stores, and EBS but EBS is the recommended method since they have persistent storage. 
 
 ### Q3: What are the different types of load balancers available in AWS?
-There are four types of load balances available.
+There are four types of load balancers available.
 a.	Application load balancer
 b.	Network load balancer
 c.	Gateway load balancer
