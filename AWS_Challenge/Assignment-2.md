@@ -1,4 +1,4 @@
-# Assignment No.1
+# Assignment No.2
 
 ### Q1: Describe the significance of AWS.
 Firstly, AWS is a cloud service provider. Hence, using AWS is significantly better than using on-premise datacentres for a host of reasons. A few being improved security, adoption of a pay-as-you go model, ability to focus on producing value, and not having to setup the resources physically. Fault tolerance, greater reliability and so on. Secondly, AWS is the best of the top 3 CSP’s (AWS, GCP, Azure). It has the most complete vision, and the best ability to carry out its vision as well, according to a study conducted by Gartner.
