@@ -1,4 +1,4 @@
-# Assignment No.3
+# Assignment No.4
 
 ### Q1: Explain the Snowball concept.
 Snowball is a part of the AWS Snow Family. It is an edge computing, data migration and storage device. It is usually in the size of a briefcase. Most commonly, it is used as a data migration device, when data from an on-premise service needs to be moved over to AWS. It generally comes in two types, a storage optimized version and a compute optimized version. Snowball Edge Storage Optimized devices provide both block storage and Amazon S3-compatible object storage, and 40 vCPUs. They are well suited for local storage and large scale-data transfer. Snowball Edge Compute Optimized devices provide 52 vCPUs, block and object storage, and an optional GPU for use cases like advanced machine learning. Snowball also supports specific EC2 instance types and lambda functions, so development and testing can be done in the cloud, and can then be deploying in remote locations to collect, pre-process and send the data over to AWS. 
